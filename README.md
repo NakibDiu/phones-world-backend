@@ -1,0 +1,1 @@
+#This is a practice project. Created an api for some phones data using node.js
